@@ -23,7 +23,8 @@ get_file_data <- function(file_name) {
 
 }
 
-bar_graph_magitude <- function(lower, upper, data, name, incrament = 0.5,  color = "blue", dense = 0) {
+bar_graph_magitude <- function(lower, upper, data,
+                    name, incrament = 0.5,  color = "blue", dense = 0) {
   # This will take all the data from the md_earthquake_data and output the
   # magnitude into a bar chart
 

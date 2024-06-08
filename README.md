@@ -2,9 +2,9 @@
 
 What this will do is it will take in the most recent earthquake data from the [USGS](https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php) and it will output jpg files of the veriaty of magnitudes of earthquakes. 
 
-## Demo Video (WIP)
+## Example Output:
 
-[Software Demo Video](http://youtube.link.goes.here)
+![graph](./mb.jpeg)
 
 # Development Environment
 
